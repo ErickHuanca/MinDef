@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31005533064",
+    "firebase_url": "https://mindef-4a056.firebaseio.com",
+    "project_id": "mindef-4a056",
+    "storage_bucket": "mindef-4a056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31005533064:android:546deccdf4d40e90",
+        "android_client_info": {
+          "package_name": "com.example.ministeriodefensa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31005533064-f251hcuit4mg509rmvgmerrbbvppbte0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ministeriodefensa",
+            "certificate_hash": "727b4c2e5b3e7606a7766dbd3add3e2b05e6b8ed"
+          }
+        },
+        {
+          "client_id": "31005533064-2bc69crfklqb03t02vn690n1gsbn3hdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZgqy89JTAhKxOAktyVDJPmEnbJQ-08U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31005533064-2bc69crfklqb03t02vn690n1gsbn3hdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
